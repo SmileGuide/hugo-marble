@@ -1,3 +1,3 @@
-module wangchucheng.com/hugo-marble/utils
+module github.com/SmileGuide/hugo-marble/utils
 
 go 1.18
